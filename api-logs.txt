@@ -1,2 +1,8 @@
-Request_kiwi: GET https://api.skypicker.com/flights?flyFrom=PRG&to=LGW&dateFrom=18/11/2019&dateTo=12/12/2019&partner=picky
-Response_kiwi: URL https://api.skypicker.com/flights?flyFrom=PRG&to=LGW&dateFrom=18/11/2019&dateTo=12/12/2019&partner=picky; STATUS CODE: 200
+Request_dohop: GET https://partners-api.dohop.com/api/v2/ticketing/gatwick-connect/DE/EUR/EDI/CPH/2019-08-13?ticketing-partner=36fd0d405f4541b7be72d117b574a70f
+Response_dohop: URL https://partners-api.dohop.com/api/v2/ticketing/gatwick-connect/DE/EUR/EDI/CPH/2019-08-13?ticketing-partner=36fd0d405f4541b7be72d117b574a70f; STATUS CODE: 200
+Request_dohop: GET https://partners-api.dohop.com/api/v2/ticketing/dohop-connect/DE/EUR/EDI/CPH/2019-08-13?ticketing-partner=36fd0d405f4541b7be72d117b574a70f
+Response_dohop: URL https://partners-api.dohop.com/api/v2/ticketing/dohop-connect/DE/EUR/EDI/CPH/2019-08-13?ticketing-partner=36fd0d405f4541b7be72d117b574a70f; STATUS CODE: 200
+Request_dohop: GET https://partners-api.dohop.com/api/v2/ticketing/easyjet-connect/DE/EUR/EDI/CPH/2019-08-13?ticketing-partner=36fd0d405f4541b7be72d117b574a70f
+Response_dohop: URL https://partners-api.dohop.com/api/v2/ticketing/easyjet-connect/DE/EUR/EDI/CPH/2019-08-13?ticketing-partner=36fd0d405f4541b7be72d117b574a70f; STATUS CODE: 200
+Request_kiwi: GET https://api.skypicker.com/flights?flyFrom=EDI&to=CPH&dateFrom=13/08/2019&dateTo=13/08/2019&partner=picky
+Response_kiwi: URL https://api.skypicker.com/flights?flyFrom=EDI&to=CPH&dateFrom=13/08/2019&dateTo=13/08/2019&partner=picky; STATUS CODE: 200
